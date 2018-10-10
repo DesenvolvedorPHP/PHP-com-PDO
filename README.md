@@ -7,16 +7,18 @@
 Antes de começarmos a trabalhar com o PDO, é necessário habilitar o driver do PDO e o driver referente ao banco que será utilizado. Para habilitar o PDO é bem simples, vá ate o seu arquivo php.ini que encontra-se dentro do diretório onde foi instalado o PHP e remova os comentários (;) das linhas abaixo.
 
 
-### Habilitando PDO no Windows
+#### Habilitando PDO no Windows
 
-> extension=php_pdo.dll ..
+> extension=php_pdo.dll 
+
 > extension=php_pdo_mysql.dll
 
 
 
 
-### Habilitando PDO no Linux
+#### Habilitando PDO no Linux
 
-> extension=pdo.so ..
+> extension=pdo.so 
+
 > extension=pdo_mysql.so
 
