@@ -9,7 +9,7 @@ Antes de começarmos a trabalhar com o PDO, é necessário habilitar o driver do
 
 ### Habilitando PDO no Windows
 
-> extension=php_pdo.dll
+> extension=php_pdo.dll ..
 > extension=php_pdo_mysql.dll
 
 
@@ -17,6 +17,6 @@ Antes de começarmos a trabalhar com o PDO, é necessário habilitar o driver do
 
 ### Habilitando PDO no Linux
 
-> extension=pdo.so
+> extension=pdo.so ..
 > extension=pdo_mysql.so
 
