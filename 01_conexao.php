@@ -1,4 +1,5 @@
 <?php
+// Banco de Dados - PDO
 // Criando uma conexão com um Banco de Dados utilizando PDO
 
 try{
